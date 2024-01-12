@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# ✨ About Me:
 
 - 🔭 I’m currently working on a Flutter Project
 - 🌱 I’m currently learning Dart
